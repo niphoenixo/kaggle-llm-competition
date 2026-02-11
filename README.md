@@ -2,9 +2,12 @@
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com)
 [![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat&logo=python)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
-[![Last Commit](https://img.shields.io/github/last-commit/niphoenixo/kaggle-llm-competition)](https://github.com/niphoenixo/kaggle-llm-competition)
+[![Pandas](https://img.shields.io/badge/Pandas-2.0-150458?style=flat&logo=pandas)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-1.24-013243?style=flat&logo=numpy)](https://numpy.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter)](https://jupyter.org)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)](https://opensource.org/licenses/MIT)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)]()
+[![Last Commit](https://img.shields.io/github/last-commit/niphoenixo/kaggle-llm-competition?style=flat)](https://github.com/niphoenixo/kaggle-llm-competition)
 
 **Predicting Human Preferences in LLM Conversations**  
 *A Kaggle Getting Started Competition*
@@ -180,7 +183,7 @@ Senior Backend Engineer | LLM Evaluation Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-g-profile/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/niphoenixo)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/nishatime))
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/nishatime)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nisha.sonawane@gmail.com)
 
 ---
