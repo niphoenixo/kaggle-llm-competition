@@ -152,7 +152,7 @@ jupyter notebook notebooks/notebook-nisha-f8b47a360f.ipynb
 
 | Date | Submission | Approach | Log Loss | Status |
 |------|------------|----------|----------|--------|
-| 2026-02-11 | 1 | Length-based heuristic | TBD | ⏳ Submitted |
+| 2026-02-11 | 1 | Length-based heuristic | **1.28203** | ✅ Submitted |
 
 ---
 
