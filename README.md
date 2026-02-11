@@ -175,8 +175,6 @@ Senior Backend Engineer | LLM Evaluation Specialist
 - **Simplify VMS** (2021-Present): Engineering Manager
 - **16+ years** in distributed systems, microservices, AWS
 
-**Relocation:** 📍 United Kingdom - May 2026 (Family Route)
-
 ---
 
 ## Connect
