@@ -6,12 +6,14 @@
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-1.24-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-[![Last Commit](https://img.shields.io/github/last-commit/niphoenixo/kaggle-llm-competition)](https://github.com/niphoenixo/kaggle-llm-competition)
+[![GitHub last commit](https://img.shields.io/github/last-commit/niphoenixo/kaggle-llm-competition)](https://github.com/niphoenixo/kaggle-llm-competition)
+[![GitHub repo size](https://img.shields.io/github/repo-size/niphoenixo/kaggle-llm-competition)](https://github.com/niphoenixo/kaggle-llm-competition)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Kaggle](https://img.shields.io/badge/Kaggle-niphoenixo-blue?style=flat&logo=kaggle)](https://www.kaggle.com/niphoenixo)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
-[![Kaggle Score](https://img.shields.io/badge/Score-TBD-orange)]()
+[![Score](https://img.shields.io/badge/Score-TBD-orange)]()
 
 **Predicting Human Preferences in LLM Conversations**  
 *A Kaggle Getting Started Competition*
@@ -67,7 +69,8 @@ This competition directly leverages my **LLM evaluation experience at NVIDIA**, 
 | **Features** | Response length comparison |
 | **Score** | *Pending first submission* |
 | **Rank** | *Pending* |
-| **Notebook** | [`01_first_submission.ipynb`](notebooks/01_first_submission.ipynb) |
+| **Notebook** | [`notebook-nisha-f8b47a360f.ipynb`](notebooks/notebook-nisha-f8b47a360f.ipynb) |
+| **Submission** | [`first_submission.csv`](submissions/first_submission.csv) |
 
 #### Implementation
 ```python
@@ -81,4 +84,4 @@ def get_length_based_probabilities(response_a, response_b):
     elif len_b > len_a:
         return [0.2, 0.6, 0.2]  # Model B wins
     else:
-        return [0.33, 0
+        return [0.33, 0.33, 0.34]  # Tie
