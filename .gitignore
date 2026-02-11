@@ -1,0 +1,32 @@
+# Add proper .gitignore rules
+cat >> .gitignore << 'EOF'
+
+# Data files - DO NOT COMMIT (too large)
+data/*.csv
+data/*.parquet
+data/*.feather
+data/*.h5
+data/*.pkl
+# Keep the README
+!data/README.md
+
+# Submission files - keep only first submission as example
+submissions/*.csv
+!submissions/first_submission.csv
+
+# Kaggle API credentials
+kaggle.json
+
+# Large notebook outputs
+*.nbconvert.ipynb
+.ipynb_checkpoints/
+EOF
+
+# Stage the updated .gitignore
+git add .gitignore
+
+# Remove submissions/submission.csv if it's large (optional)
+# If it's small (few KB), you can rename it to first_submission.csv
+mv submissions/submission.csv submissions/first_submission.csv
+git add submissions/first_submission.csv
+git rm --cached submissions/submission.csv
