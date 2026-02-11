@@ -64,7 +64,7 @@ def predict_preference(response_a, response_b):
         return [0.2, 0.6, 0.2]  # Model B wins
     else:
         return [0.33, 0.33, 0.34]  # Tie
-
+```
 ---
 
 ## Project Structure
