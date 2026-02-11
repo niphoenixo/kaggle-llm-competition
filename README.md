@@ -69,22 +69,36 @@ def predict_preference(response_a, response_b):
 
 ## Project Structure
 
-```
+<pre>
 kaggle-llm-competition/
+│
 ├── notebooks/
 │   └── notebook-nisha-f8b47a360f.ipynb
+│
 ├── src/
 │   ├── __init__.py
 │   ├── features.py
 │   └── utils.py
+│
 ├── submissions/
 │   └── first_submission.csv
+│
 ├── data/
 │   └── README.md
+│
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-```
+</pre>
+
+### Directory Details
+
+| Directory | Purpose |
+|-----------|---------|
+| **notebooks/** | Jupyter notebooks with experiments |
+| **src/** | Reusable Python modules |
+| **submissions/** | Kaggle submission files |
+| **data/** | Data download instructions |
 
 ---
 
@@ -97,10 +111,21 @@ cd kaggle-llm-competition
 
 # Install dependencies
 pip install -r requirements.txt
-
-# Download competition data
-# Visit: https://www.kaggle.com/competitions/llm-classification-finetuning/data
 ```
+
+### Data Download
+
+**Option 1: Kaggle API (Recommended)**
+```bash
+pip install kaggle
+kaggle competitions download -c llm-classification-finetuning
+unzip llm-classification-finetuning.zip -d data/
+```
+
+**Option 2: Manual Download**
+1. Visit: https://www.kaggle.com/competitions/llm-classification-finetuning/data
+2. Click "Download All"
+3. Unzip files into the `data/` folder
 
 ---
 
