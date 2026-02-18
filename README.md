@@ -1,5 +1,6 @@
 # Kaggle LLM Classification Competition
 
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com)
 [![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat&logo=python)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0-150458?style=flat&logo=pandas)](https://pandas.pydata.org)
@@ -186,4 +187,5 @@ Senior Backend Engineer | LLM Evaluation Specialist
 
 ---
 
-*Last updated: February 11, 2026*
+*Last updated: February 11th, 2026*
+
