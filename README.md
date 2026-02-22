@@ -154,7 +154,7 @@ jupyter notebook notebooks/notebook-nisha-f8b47a360f.ipynb
 | Date | Submission | Approach | Log Loss | Status |
 |------|------------|----------|----------|--------|
 | 2026-02-11 | 1 | Length-based heuristic | **1.28203** | ✅ Submitted |
-
+| 2026-02-11 | 1 | hybrid feature engineering + ensemble learning approach | **1.04585** | ✅ Submitted |
 ---
 
 ## Next Steps
