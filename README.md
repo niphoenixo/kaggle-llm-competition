@@ -177,7 +177,6 @@ Senior Backend Engineer | LLM Evaluation Specialist
 - **NVIDIA** (2025-2026): LLM Evaluation Engineer
 - **Simplify VMS** (2021-Present): Engineering Manager
 - **16+ years** in distributed systems, microservices, AWS
-
 ---
 
 ## Connect
