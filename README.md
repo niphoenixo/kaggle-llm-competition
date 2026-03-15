@@ -37,7 +37,6 @@
 **Type:** Getting Started Competition
 
 Large Language Models (LLMs) are rapidly entering our lives, but ensuring their responses resonate with users is critical. This competition uses real-world data from Chatbot Arena, where users chat with two anonymous LLMs and choose the answer they prefer.
-
 ---
 
 ## My Approach
