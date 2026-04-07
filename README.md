@@ -9,7 +9,6 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)]()
 [![Last Commit](https://img.shields.io/github/last-commit/niphoenixo/kaggle-llm-competition?style=flat)](https://github.com/niphoenixo/kaggle-llm-competition)
-
 **Predicting Human Preferences in LLM Conversations**  
 *A Kaggle Getting Started Competition*
 
