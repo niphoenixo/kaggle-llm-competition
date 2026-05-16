@@ -114,7 +114,6 @@ cd kaggle-llm-competition
 # Install dependencies
 pip install -r requirements.txt
 ```
-
 ### Data Download
 
 **Option 1: Kaggle API (Recommended)**
