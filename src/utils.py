@@ -8,7 +8,6 @@ This module provides helper functions for:
 - Probability calibration and checks
 """
 
-
 import pandas as pd
 import numpy as np
 import os
@@ -89,7 +88,6 @@ def get_target_stats(train_df: pd.DataFrame) -> Dict:
     print(f"   Tie: mean={stats['mean_tie']:.4f}, std={stats['std_tie']:.4f}")
     
     return stats
-
 
 # ============================================================================
 # SUBMISSION CREATION & VALIDATION
